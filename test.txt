@@ -61,5 +61,4 @@ git push -u origin master
 git status
 git status
 git commit -m "second commit" test.txt
-
 git push -u origin master

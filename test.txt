@@ -1,0 +1,6 @@
+all the commands i used to test this for this example
+
+
+git config --global user.name "Wackyland"
+git config --global user.email "georgehristov456@yahoo.com"
+git clone https://github.com/Wackyland/Test1.git

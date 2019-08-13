@@ -1,6 +1,55 @@
-all the commands i used to test this for this example
+https://www.youtube.com/watch?v=J_Clau1bYco
 
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin master
+git remote add origin master (url)
+
+
+
+
+
+
+
+
+...................................................
+1. navigating
+
+cd /c
+
+- moves to c drive
+
+
+
+cd git
+*to move to folder  don't put forward slash
+
+...................................................
+2. Setting up Git  
 
 git config --global user.name "Wackyland"
 git config --global user.email "georgehristov456@yahoo.com"
+
+- this sets up git username and password
+...................................................
+3. Transfering/Cloning
 git clone https://github.com/Wackyland/Test1.git
+
+
+git add test.txt
+
+
+
+git status
+
+
+git status
+git commit -m "first commit" test.txt
+
+git push -u origin master

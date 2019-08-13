@@ -53,3 +53,13 @@ git status
 git commit -m "first commit" test.txt
 
 git push -u origin master
+
+
+
+
+- to send modified file to git 
+git status
+git status
+git commit -m "second commit" test.txt
+
+git push -u origin master
